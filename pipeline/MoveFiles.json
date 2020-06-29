@@ -18,7 +18,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"dataset": {
-						"referenceName": "BinaryDataSource_Folder1",
+						"referenceName": "BinaryDataSource_Folder",
 						"type": "DatasetReference",
 						"parameters": {
 							"Container": {
@@ -93,7 +93,7 @@
 							},
 							"inputs": [
 								{
-									"referenceName": "BinaryDataSource_File1",
+									"referenceName": "BinaryDataSource_File",
 									"type": "DatasetReference",
 									"parameters": {
 										"Container": {
@@ -113,7 +113,7 @@
 							],
 							"outputs": [
 								{
-									"referenceName": "BinaryDataDestination1",
+									"referenceName": "BinaryDataDestination",
 									"type": "DatasetReference",
 									"parameters": {
 										"Container": {
@@ -154,7 +154,7 @@
 							"userProperties": [],
 							"typeProperties": {
 								"dataset": {
-									"referenceName": "BinaryDataSource_File1",
+									"referenceName": "BinaryDataSource_File",
 									"type": "DatasetReference",
 									"parameters": {
 										"Container": {
